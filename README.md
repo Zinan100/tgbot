@@ -1,5 +1,5 @@
-# tgbot❤
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+kochubot's+Repo!;A+simple+Group+modular+bot!;and+all+futures!)
+# MISS ROSE BOT
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+Miss+rose+bot+'s+Repo!;A+simple+Group+modular+bot!;and+all+futures!)
 </p>
 <center><img src="https://telegra.ph/file/ac054fe88d656291f02e7.jpg"></center>
 <br>
