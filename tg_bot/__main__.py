@@ -136,8 +136,7 @@ def start(bot: Bot, update: Update, args: List[str]):
             update.effective_message.reply_text(
                 PM_START_TEXT.format(escape_markdown(first_name), escape_markdown(bot.first_name), OWNER_ID),
 
-                parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup(
-            [InlineKeyboardButton('➕️  Add me to your group ➕️', url="t.me/{}?startgroup=true".format(bot.username))
+                parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup([InlineKeyboardButton('➕️  Add me to your group ➕️', url="t.me/{}?startgroup=true".format(bot.username))
             ],[
             InlineKeyboardButton('🔊Channel🔊', url='https://t.me/moviespot00100'),
             InlineKeyboardButton('💬Group💬', url='https://t.me/moviespot001100')
