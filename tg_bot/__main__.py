@@ -145,7 +145,7 @@ def start(bot: Bot, update: Update, args: List[str]):
             InlineKeyboardButton('🛠Help🛠', callback_data='help')
             ],[
             InlineKeyboardButton('🧑‍💻Dev🧑‍💻', url='https://t.me/Zinan00100')
-            ]]
+            ]
     else:
         update.effective_message.reply_text("ചത്തിട്ടില്ലാ...")
 
