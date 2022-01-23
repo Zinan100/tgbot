@@ -26,7 +26,7 @@ Alternatively, [find me on telegram](https://t.me/jithumon)! (Keep all support q
 
 
 ##DEPLOY TO HEROKU
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template= https://git
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Zinan100/tgbot.git
 )<br>
 There is also a [tutorial video](https://youtu.be/W6CLKrehy6w) if you want any help on creating heroku clone.
 [![telegram badge](https://img.shields.io/badge/Support-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/keralabots)
